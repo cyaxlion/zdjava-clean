@@ -1,2 +1,8 @@
-package db;public enum UserLanguage {
+package db;
+
+public enum UserLanguage {
+    ENGLISH,
+    POLISH;
+
+
 }
